@@ -65,26 +65,34 @@ In reviewing the submission take into account the category and form of the paper
 
 We received the following categories of submissions:
 
-RESEARCH PAPERS (Research) to present original research and the analysis, interpretation and validation of the
+RESEARCH PAPERS to present original research and the analysis, interpretation and validation of the
 research findings.
 
-POSITION PAPERS (Position) to present innovative, arguable ideas, opinions or frameworks which are likely
+POSITION PAPERS to present innovative, arguable ideas, opinions or frameworks which are likely
 to foster discussion at the workshop.
 
-PROJECT PAPERS (Project) to describe a new open community project (e.g. on a hosting provider or a dedicated portal)
+PROJECT PAPERS to describe a new open community project (e.g. on a hosting provider or a dedicated portal)
 or a new research project, or the status of an ongoing project or the outcomes of a recently completed project.
 
-SURVEY PAPERS (Survey) to collect previously published studies on topics related to the workshop and analyse them
+SURVEY PAPERS to collect previously published studies on topics related to the workshop and analyse them
 in the context of open communities.
 
-LEARNING EXPERIENCE PAPERS (LearnExp) to report on a learning experience within an open community
+CASE STUDY PAPERS to report on case studies, preferably in a real-world setting.
+
+TOOL PAPERS to present a new tool, a new tool component or novel extensions to an existing tool aiming at supporting open community approaches, or the use/customisation of an existing tool in the context of open communities.
+
+TOOL DEMONSTRATION PAPERS to demonstrate the tool workflow(s) and human interaction aspects, and evaluate the overall role of the tool in supporting open community approaches.
+
+TEACHION EXPERIENCE PAPERS to report on teaching experiences using an open community approach in a formal education context (e.g. in a university/school context) or in informal education.
+
+LEARNING EXPERIENCE PAPERS to report on a learning experience within an open community
 in a formal education context (e.g. by university students) or in informal education.
 
 We received contributions in the form of
 
-REGULAR PAPERS between 12 and 15 pages for submission (and between 12 and 16 pages for post-proceedings camera-ready).
+REGULAR PAPERS between 12 and 15 pages except references for submission (and between 12 and 17 pages except references for post-proceedings camera-ready).
 
-SHORT PAPERS between 6 and 8 pages for submission (and between 6 and 9 pages for post-proceedings camera-ready).
+SHORT PAPERS between 6 and 8 pages except refernces for submission (and between 6 and 9 pages except references for post-proceedings camera-ready).
 
 "Short papers" can discuss new ideas which are at an early stage of development and which have not yet been
 thoroughly evaluated.
