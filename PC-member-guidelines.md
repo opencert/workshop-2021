@@ -27,7 +27,7 @@ Before self-assigning the submission make sure that the submission has not been 
 PC members: 4 PC members for short papers and 5 PC members for regular papers. In fact, issue labels do not change in
 real-time, they must be changed manually by the Program Co-chairs. The deadline for self-assigning the review is
 
-     Monday 21 July 2019.
+     Monday 1 November 2021.
 
 If by the deadline you haven't self-assigned a submission yet or you have self-assigned a submission that had already
 enough reviewers, then the Program Co-chairs will choose the submission to assign to you.
