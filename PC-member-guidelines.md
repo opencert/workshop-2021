@@ -1,4 +1,4 @@
-# PC MEMBERS GUIDELINES
+# REVIEW PROCESS GUIDELINES
 
 ### 1. OBTAIN A GITHUB ACCOUNT
 In order to be able to participate in the review process you will need a GitHub account.
@@ -83,7 +83,7 @@ TOOL PAPERS to present a new tool, a new tool component or novel extensions to a
 
 TOOL DEMONSTRATION PAPERS to demonstrate the tool workflow(s) and human interaction aspects, and evaluate the overall role of the tool in supporting open community approaches.
 
-TEACHION EXPERIENCE PAPERS to report on teaching experiences using an open community approach in a formal education context (e.g. in a university/school context) or in informal education.
+TEACHING EXPERIENCE PAPERS to report on teaching experiences using an open community approach in a formal education context (e.g. in a university/school context) or in informal education.
 
 LEARNING EXPERIENCE PAPERS to report on a learning experience within an open community
 in a formal education context (e.g. by university students) or in informal education.
