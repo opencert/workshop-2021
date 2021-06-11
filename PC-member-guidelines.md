@@ -1,11 +1,11 @@
 # PC MEMBERS GUIDELINES
 
-## 1. OBTAIN A GITHUB ACCOUNT
+### 1. OBTAIN A GITHUB ACCOUNT
 In order to be able to participate in the review process you will need a GitHub account.
 If you have not got one yet, please go to https://github.com and sign up for an account.
 
 
-## 2. ACCESS SUBMISSIONS
+### 2. ACCESS SUBMISSIONS
 Submissions PDF files are posted on this repository (https://github.com/opencert/workshop-2019/) in form of issues.
 Go to the repository web page and click on the tab "Issues" to access submissions
 (page https://github.com/opencert/workshop-2019/issues).
@@ -15,7 +15,7 @@ Please note that without a GitHub you can see the repository (https://github.com
 issues (https://github.com/opencert/workshop-2019/issues), but you cannot post comments.
 
 
-## 3. SELF-ASSIGN SUBMISSIONS TO REVIEW
+### 3. SELF-ASSIGN SUBMISSIONS TO REVIEW
 Each PC member should self assign ONE submission to review by posting the following signed comment in the related issue
 of the chosen submission:
 
@@ -34,7 +34,7 @@ enough reviewers, then the Program Co-chairs will choose the submission to assig
 Once the assignements of all submissions are completed, they will be entered on Easychair.
 
 
-##4. REVIEW PROCESS
+### 4. REVIEW PROCESS
 The review process consists of the following three phases:
 
 a) INTERACTIVE PHASE (from now until Sunday 4 August)
