@@ -46,17 +46,17 @@ b) ASSESSMENT PHASE (from Monday 25 October to Friday 30 October 2021)
    You will need to evaluate the revised submission to assess whether the authors have revised the submission according
    the reviewers' comments. By Friday 30 October 2021 you have to upload your review on Easychair.
    The review form is structured as follows:
-   (1) highlight the strengths and weaknesses of the initial submission;
-   (2) summarise the feedback provided to the authors during the interactive phase (you may cut and past from GitHub);
-   (3) evaluate whether and how the authors properly addressed the discussion with the reviewers in the revised version;
-   (4) provide further feedback to the authors aiming to improve the paper;
-   (5) provide an overall evaluation, including a justification for for score/recommendation
+   1. highlight the strengths and weaknesses of the initial submission;
+   1. summarise the feedback provided to the authors during the interactive phase (you may cut and past from GitHub);
+   1. evaluate whether and how the authors properly addressed the discussion with the reviewers in the revised version;
+   1. provide further feedback to the authors aiming to improve the paper;
+   1. provide an overall evaluation, including a justification for for score/recommendation
        (this is confidential for the PC).
 
 c) PAPER DISCUSSION (from Monday 1 November to Thursday 4 November 2021)
    It will be carried out on Easychair. The revised version may be be rejected, accepted as it is, accepted with minor
    revision (neither major revision nor conditional acceptance are possible)
-   Notification is expected on Friday 16 August.
+   Notification is expected on Friday 5 November 2021.
    
 
 ## SUBMISSION CATEGORY AND FORM
