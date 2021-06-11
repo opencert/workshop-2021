@@ -1,4 +1,4 @@
-# REVIEW PROCESS GUIDELINES
+# REVIEW PROCESS GUIDELINES FOR PC MEMBERS
 
 ### 1. OBTAIN A GITHUB ACCOUNT
 In order to be able to participate in the review process you will need a GitHub account.
