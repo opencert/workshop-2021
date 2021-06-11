@@ -1,4 +1,4 @@
-# workshop-2019
+# workshop-2021
 Working repository of the 9th International Workshop on
 <br />
 <b>Open Community approaches to Education, Research and Technology</b>
