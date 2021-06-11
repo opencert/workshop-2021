@@ -6,13 +6,13 @@ If you have not got one yet, please go to https://github.com and sign up for an 
 
 
 ### 2. ACCESS SUBMISSIONS
-Submissions PDF files are posted on this repository (https://github.com/opencert/workshop-2019/) in form of issues.
+Submissions PDF files are posted on this repository (https://github.com/opencert/workshop-2021/) in form of issues.
 Go to the repository web page and click on the tab "Issues" to access submissions
-(page https://github.com/opencert/workshop-2019/issues).
+(page https://github.com/opencert/workshop-2021/issues).
 Then click on "Submission n (.../...)" to access submission number n. Title, abstract and PDF file (link at the bottom) are the same
 as the ones available on Easychair. On Easychair you can also find the submission metadata.
-Please note that without a GitHub you can see the repository (https://github.com/opencert/workshop-2019/) including the
-issues (https://github.com/opencert/workshop-2019/issues), but you cannot post comments.
+Please note that without a GitHub you can see the repository (https://github.com/opencert/workshop-2021/) including the
+issues (https://github.com/opencert/workshop-2021/issues), but you cannot post comments.
 
 
 ### 3. SELF-ASSIGN SUBMISSIONS TO REVIEW
