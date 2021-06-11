@@ -53,7 +53,7 @@ b) ASSESSMENT PHASE (from Monday 25 October to Friday 30 October 2021)
    1. provide an overall evaluation, including a justification for for score/recommendation
        (this is confidential for the PC).
 
-c) PAPER DISCUSSION (from Monday 1 November to Thursday 4 November 2021)
+c) FINAL DISCUSSION (from Monday 1 November to Thursday 4 November 2021)
    It will be carried out on Easychair. The revised version may be be rejected, accepted as it is, accepted with minor
    revision (neither major revision nor conditional acceptance are possible)
    Notification is expected on Friday 5 November 2021.
