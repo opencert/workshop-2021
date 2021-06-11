@@ -8,6 +8,6 @@ Working repository of the 9th International Workshop on
 *** towards "Open community approaches" CERTification processes ***
 <br />
 <br />
-VIRTUAL EVENT, 7 SDECEMBER 2021,
+VIRTUAL EVENT, 7 December 2021,
 <br />
 Co-located with SEFM 2021
