@@ -22,7 +22,7 @@ of the chosen submission:
      I will review this submission.
      Your-name Your-surname
      
-Only choose submissions labelled "available for review". Note that initially all submissions are labelled in this way.
+Only choose submissions labelled "available for self-assignment". Note that initially all submissions are labelled in this way.
 We aim at at least 5 reviewers per submission. Before self-assigning the submission, make sure that the submission has
 not been already self-assigned by 5 PC members. In that case, please give priority to papers with less than 5 reviewers.
 If all submissions have already 5 revewers, feel free to choose any of them.
