@@ -6,13 +6,13 @@ If you have not got one yet, please go to https://github.com and sign up for an 
 
 
 ### 2. ACCESS SUBMISSIONS
-Submissions PDF files are posted on this repository (https://github.com/opencert/workshop-2021/) in form of issues.
+Submissions are posted on this repository (https://github.com/opencert/workshop-2021/) in form of issues.
 Go to the repository web page and click on the tab "Issues" to access submissions
 (page https://github.com/opencert/workshop-2021/issues).
-Then click on "Submission n (.../...)" to access submission number n. Title, abstract and PDF file (link at the bottom) are the same
+Then click on "Submission n (...)" to access submission number n. Title, abstract and PDF file are the same
 as the ones available on Easychair. On Easychair you can also find the submission metadata.
-Please note that without a GitHub you can see the repository (https://github.com/opencert/workshop-2021/) including the
-issues (https://github.com/opencert/workshop-2021/issues), but you cannot post comments.
+Please note that without a GitHub account you can see the repository (https://github.com/opencert/workshop-2021/)
+including the issues (https://github.com/opencert/workshop-2021/issues), but you cannot post comments.
 
 
 ### 3. SELF-ASSIGN SUBMISSIONS TO REVIEW
@@ -23,26 +23,29 @@ of the chosen submission:
      Your-name Your-surname
      
 Only choose submissions labelled "available for review". Note that initially all submissions are labelled in this way.
-Before self-assigning the submission make sure that the submission has not been self-assigned by the maximum number of
-PC members: 4 PC members for short papers and 5 PC members for regular papers. In fact, issue labels do not change in
-real-time, they must be changed manually by the Program Co-chairs. The deadline for self-assigning the review is
+We aim at at least 5 reviewers per submission. Before self-assigning the submission, make sure that the submission has
+not been already self-assigned by 5 PC members. In that case, please give priority to papers with less than 5 reviewers.
+If all submissions have already 5 revewers, feel free to choose any of them.
+Please note that issue labels do not change in real-time, they must be changed manually by the Program Co-chairs.
+The deadline for self-assigning the review is
 
-     Monday 18 October 2021.
+     Monday 25 October 2021.
 
 If by the deadline you haven't self-assigned a submission yet or you have self-assigned a submission that had already
-enough reviewers, then the Program Co-chairs will choose the submission to assign to you.
+enough reviewers and there are still submissions with less than 5 reviewers, then the Program Co-chairs will choose the
+submission to assign to you.
 Once the assignements of all submissions are completed, they will be entered on Easychair.
 
 
 ### 4. REVIEW PROCESS
 The review process consists of the following three phases:
 
-a) INTERACTIVE PHASE (from Monday 18 October to Thursday 4 November 2021)
+a) INTERACTIVE PHASE (from Tuesday 26 October to Friday 5 November 2021)
    You will be able to interact with the authors and you are expected to provide feedback to the authors throughout
    this review phase. You may put questions to the authors and ask for clarifications.
-   Authors are expected to consider your comments, revise their submission and upload it in the issue by Friday 12 November 2021.
+   Authors are expected to consider your comments, revise their submission and upload it in the issue by Monday 8 November 2021.
    
-b) ASSESSMENT PHASE (from Monday 8 November to Friday 12 November 2021)
+b) ASSESSMENT PHASE (from Tuesday 9 November to Friday 12 November 2021)
    You will need to evaluate the revised submission to assess whether the authors have revised the submission according
    the reviewers' comments. By Friday 12 November 2021 you have to upload your review on Easychair.
    The review form is structured as follows:
@@ -54,7 +57,7 @@ b) ASSESSMENT PHASE (from Monday 8 November to Friday 12 November 2021)
        (this is confidential for the PC).
 
 c) FINAL DISCUSSION (from Monday 15 November to Wednesday 17 November 2021)
-   It will be carried out on Easychair. The revised version may be be rejected, accepted as it is, accepted with minor
+   It will be carried out on Easychair. The revised version may be rejected, accepted as it is, accepted with minor
    revision (neither major revision nor conditional acceptance are possible)
    Notification is expected on Wednesday 17 November 2021.
    
