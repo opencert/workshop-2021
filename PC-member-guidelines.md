@@ -29,7 +29,7 @@ If all submissions have already 5 revewers, feel free to choose any of them.
 Please note that issue labels do not change in real-time, they must be changed manually by the Program Co-chairs.
 The deadline for self-assigning the review is
 
-     Monday 25 October 2021.
+     Friday 29 October 2021.
 
 If by the deadline you haven't self-assigned a submission yet or you have self-assigned a submission that had already
 enough reviewers and there are still submissions with less than 5 reviewers, then the Program Co-chairs will choose the
@@ -40,14 +40,14 @@ Once the assignements of all submissions are completed, they will be entered on 
 ### 4. REVIEW PROCESS
 The review process consists of the following three phases:
 
-a) INTERACTIVE PHASE (from Tuesday 26 October to Friday 5 November 2021)
+a) INTERACTIVE PHASE (from Friday 29 October to Wedneday 10 November 2021)
    You will be able to interact with the authors and you are expected to provide feedback to the authors throughout
    this review phase. You may put questions to the authors and ask for clarifications.
-   Authors are expected to consider your comments, revise their submission and upload it in the issue by Monday 8 November 2021.
+   Authors are expected to consider your comments, revise their submission and upload it in the issue by Wednesday 10 November 2021.
    
-b) ASSESSMENT PHASE (from Tuesday 9 November to Friday 12 November 2021)
+b) ASSESSMENT PHASE (from Fridy 12 November to Friday 19 November 2021)
    You will need to evaluate the revised submission to assess whether the authors have revised the submission according
-   the reviewers' comments. By Friday 12 November 2021 you have to upload your review on Easychair.
+   the reviewers' comments. By Friday 19 November 2021 you have to upload your review on Easychair.
    The review form is structured as follows:
    1. highlight the strengths and weaknesses of the initial submission;
    1. summarise the feedback provided to the authors during the interactive phase (you may cut and past from GitHub);
@@ -56,10 +56,10 @@ b) ASSESSMENT PHASE (from Tuesday 9 November to Friday 12 November 2021)
    1. provide an overall evaluation, including a justification for for score/recommendation
        (this is confidential for the PC).
 
-c) FINAL DISCUSSION (from Monday 15 November to Wednesday 17 November 2021)
+c) FINAL DISCUSSION (from Monday 22 November to Wednesday 24 November 2021)
    It will be carried out on Easychair. The revised version may be rejected, accepted as it is, accepted with minor
    revision (neither major revision nor conditional acceptance are possible)
-   Notification is expected on Wednesday 17 November 2021.
+   Notification is expected on Wednesday 24 November 2021.
    
 
 ## SUBMISSION CATEGORY AND FORM
