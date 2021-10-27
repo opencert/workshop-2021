@@ -26,7 +26,7 @@ Only choose submissions labelled "available for self-assignment". Note that init
 We aim at having at least 5 reviewers per submission. Before self-assigning the submission, make sure that the submission has
 not been already self-assigned by 5 PC members. In case it has already 5 reviewers self-assigned, please give priority
 to other submissions with less than 5 reviewers.
-If all submissions have already 5 revewers, feel free to choose any of them.
+If all submissions have already 5 reviewers, feel free to choose any of them.
 Please note that issue labels do not change in real-time, they must be changed manually by the Program Co-chairs.
 The deadline for self-assigning the review is
 
@@ -35,7 +35,7 @@ The deadline for self-assigning the review is
 If by the deadline you haven't self-assigned a submission yet or you have self-assigned a submission that had already
 enough reviewers and there are still submissions with less than 5 reviewers, then the Program Co-chairs will choose the
 submission to assign to you.
-Once the assignements of all submissions are completed, they will be entered on Easychair.
+Once the assignments of all submissions are completed, they will be entered on EasyChair.
 
 
 ### 4. REVIEW PROCESS
@@ -57,7 +57,7 @@ b) ASSESSMENT PHASE (from Monday 15 November to Friday 19 November 2021)
    1. provide an overall evaluation, including a justification for for score/recommendation, using the confidential part of the review form.
 
 c) FINAL DISCUSSION (from Monday 22 November to Wednesday 24 November 2021)
-   It will be carried out on Easychair. The revised version may be rejected, accepted as it is, accepted with minor
+   It will be carried out on EasyChair. The revised version may be rejected, accepted as it is, accepted with minor
    revision (neither major revision nor conditional acceptance are possible)
    We aim at sending out notifications to the authors on Wednesday 24 November 2021.
    
