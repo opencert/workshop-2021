@@ -45,13 +45,8 @@ a) INTERACTIVE PHASE (from Friday 29 October to Wednesday 10 November 2021)
    You will be able to interact with the authors and you are expected to provide feedback to the authors throughout
    this review phase. You may put questions to the authors and ask for clarifications.
    Authors are expected to consider your comments, revise their submission and upload it in the issue by
-   
-   Saturday 13 November 2021 at 12:00midnight AoE.
 
-
-     Friday 29 October 2021.
-
-
+     Saturday 13 November 2021 at 12:00midnight AoE.
 
 b) ASSESSMENT PHASE (from Monday 15 November to Friday 19 November 2021)
    You will need to evaluate the revised submission to assess whether the authors have revised the submission according
